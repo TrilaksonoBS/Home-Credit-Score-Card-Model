@@ -15,4 +15,3 @@ Use AUC and Kolmogorov-Smirnov (KS) with target:
 
 Business Metrics:
 Lost Given Default (LGD)
-![image](https://user-images.githubusercontent.com/109657627/186404299-fc1b234f-72f5-45e0-9b47-700021576cfd.png)
